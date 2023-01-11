@@ -1,4 +1,4 @@
-module github.com/robertkrimen/otto
+module github.com/aakines/otto
 
 go 1.14
 
